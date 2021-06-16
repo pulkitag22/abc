@@ -27,7 +27,6 @@ src/aig/ddb/
 *.opt
 *.plg
 
-*.zip
 
 abcspaceext.dsw
 abcext.dsp
